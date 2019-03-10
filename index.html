@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Todo</title>
+</head>
+<body>
+  <h1>Todoリスト</h1>
+
+  <div>
+	<input type="radio" name="swich-display" id="redio-all" checked="checked">全て
+	<input type="radio" name="swich-display" id="redio-doing">作業中
+	<input type="radio" name="swich-display" id="redio-complete">完了
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th class="id">ID</th>
+        <th class="comment">コメント</th>
+        <th class="state">状態</th>
+        <th class="button"></th>
+      </tr>
+    </thead>
+    <tbody id="todo-list">
+    </tbody>
+  </table>
+
+  <h2>新規タスクの追加</h2>
+  <input type="text" id="todo-content">
+  <button id="add-button">追加</button>
+
+  <script src="main.js"></script>
+</body>
+</html>
