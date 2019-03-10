@@ -2,17 +2,17 @@
 ## サブ課題2
 inputタグに入力された文字列をタスクとして追加する処理を作成してみましょう!!
 
-【必要な知識】
+【必要な知識】  
 〇DOM全般
-・document.getElementByID()
-・document.createElement()
-・.valueや.textContent
-・appendChild()
+・document.getElementByID()  
+・document.createElement()  
+・.valueや.textContent  
+・appendChild()  
 
-【参考記事】
-・https://eng-entrance.com/what-is-dom
-・https://wp-p.info/tpl_rep.php?cat=js-biginner&fl=r12
-・https://techacademy.jp/magazine/5638
+【参考記事】  
+・https://eng-entrance.com/what-is-dom   
+・https://wp-p.info/tpl_rep.php?cat=js-biginner&fl=r12  
+・https://techacademy.jp/magazine/5638  
 
 ## 課題の提出方法
 1. このリポジトリをご自身のgithubアカウントへforkする。
