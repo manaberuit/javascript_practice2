@@ -1,5 +1,6 @@
 # 【JavaScript 課題2】簡易Todoリスト
-## 以下と同じものを作成してください
+## サブ課題
+まずは、以下のような「index.html」を作成してみましょう。
 ![完成画像](https://j.gifs.com/YW6PyY.gif)  
 
 ## 課題の提出方法
