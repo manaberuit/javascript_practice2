@@ -1,7 +1,7 @@
 # 【JavaScript 課題2】簡易Todoリスト
 ## サブ課題
 まずは、以下のような「index.html」を作成してみましょう。
-![完成画像](https://j.gifs.com/YW6PyY.gif)  
+![完成画像](https://github.com/manaberuit/javascript_practice2/blob/image/image.PNG)  
 
 ## 課題の提出方法
 1. このリポジトリをご自身のgithubアカウントへforkする。
