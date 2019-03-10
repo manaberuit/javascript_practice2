@@ -3,7 +3,7 @@
 inputタグに入力された文字列をタスクとして追加する処理を作成してみましょう!!
 
 【必要な知識】  
-〇DOM全般
+〇DOM全般  
 ・document.getElementByID()  
 ・document.createElement()  
 ・.valueや.textContent  
