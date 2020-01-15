@@ -31,7 +31,7 @@ https://gyazo.com/eda3b55a7b980f8cedce35f1121ece92
 ・ 完了の状態でボタンをクリックすると作業中へ変更される  
 
 ### ④タスク表示/非表示切り替え機能
-https://gyazo.com/eda3b55a7b980f8cedce35f1121ece92
+https://gyazo.com/0b47106078622a1e44e912f56b5e9603
 
 [要件]  
 ・ タスクの状態によって表示/非表示を切り替えできる  
